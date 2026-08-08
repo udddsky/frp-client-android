@@ -1,0 +1,55 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+
+# Local configuration file
+local.properties
+
+# MacOS
+.DS_Store
+
+# IntelliJ
+*.iws
+*.ipr
+out/
+
+# Built application files
+*.aar
+
+# Generated files
+bin/
+gen/
+.classpath
+.project
+
+# Android Studio specific
+.idea/
+.gradle
+.buildlog
+
+# Misc
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build outputs
+app/build/

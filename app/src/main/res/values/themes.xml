@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.FrpClient" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/launcher_background</item>
+    </style>
+</resources>

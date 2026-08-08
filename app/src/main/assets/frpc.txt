@@ -1,0 +1,1 @@
+请将真实的 frpc 二进制文件替换为 app/src/main/assets/frpc。
